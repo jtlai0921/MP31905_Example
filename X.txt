@@ -1,0 +1,5 @@
+id	age	sex	pay
+1	25	Male	30000
+2	30	Male	40000
+3	35	Female	45000
+4	49	Female	50000
